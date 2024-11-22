@@ -1,14 +1,13 @@
 ---
 title: "Interpretable hypothesis tests"
 collection: publications
-category: manuscripts
-permalink: /publication/2019-04-01-interpretable-hypothesis-tests
-excerpt: 'This paper introduces a method for making hypothesis tests interpretable, helping to understand the implications of statistical conclusions.'
-date: 2019-04-01
+category: others
+permalink: /publication/interpretable
+excerpt: 'Although hypothesis tests play a prominent role in Science, their interpretation can be challenging. Three issues are (i) the difficulty in making an assertive decision based on the output of an hypothesis test, (ii) the logical contradictions that occur in multiple hypothesis testing, and (iii) the possible lack of practical importance when rejecting a precise hypothesis. These issues can be addressed through the use of agnostic tests and pragmatic hypotheses.'
+date: 2019
 venue: 'arXiv preprint arXiv:1904.06605'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/abs/1904.06605'
 citation: 'Coscrato, Victor, Esteves, Luís Gustavo, Izbicki, Rafael, & Stern, Rafael Bassi. (2019). "Interpretable hypothesis tests." <i>arXiv preprint arXiv:1904.06605</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Although hypothesis tests play a prominent role in Science, their interpretation can be challenging. Three issues are (i) the difficulty in making an assertive decision based on the output of an hypothesis test, (ii) the logical contradictions that occur in multiple hypothesis testing, and (iii) the possible lack of practical importance when rejecting a precise hypothesis. These issues can be addressed through the use of agnostic tests and pragmatic hypotheses.

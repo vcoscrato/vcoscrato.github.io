@@ -1,14 +1,13 @@
 ---
 title: "Neural networks as an optimization tool for regression"
 collection: publications
-category: manuscripts
-permalink: /publication/2019-01-01-neural-networks-as-an-optimization-tool-for-regression
-excerpt: 'This paper explores the use of neural networks as a tool for optimizing regression models, offering insights into their practical applications.'
-date: 2019-01-01
+category: dissertations
+permalink: /publication/master
+excerpt: 'My master's dissertation.'
+date: 2019
 venue: 'Universidade Federal de São Carlos'
-slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'https://repositorio.ufscar.br/handle/ufscar/11853'
 citation: 'Coscrato, Victor Azevedo. (2019). "Neural networks as an optimization tool for regression." <i>Universidade Federal de São Carlos</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Neural networks are a tool to solve prediction problems that have gained much prominence recently. In general, neural networks are used as a predictive method, that is, their are used to estimate a regression function. Instead, this work presents the use of neural networks as an optimization tool to combine existing regression estimators in order to obtain more accurate predictions and to fit local linear models more efficiently. Several tests were conducted to show the greater efficiency of these methods when compared to the usual ones.

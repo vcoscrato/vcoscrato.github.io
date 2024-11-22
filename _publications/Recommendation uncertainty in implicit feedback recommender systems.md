@@ -1,14 +1,13 @@
 ---
 title: "Recommendation uncertainty in implicit feedback recommender systems"
 collection: publications
-category: manuscripts
-permalink: /publication/2022-08-01-recommendation-uncertainty-in-implicit-feedback-recommender-systems
-excerpt: 'The paper addresses the uncertainty in implicit feedback systems and how it impacts the accuracy of recommendations in real-world applications.'
-date: 2022-08-01
+category: conferences
+permalink: /publication/AICS
+excerpt: 'A Recommender System’s recommendations will each carry a certain level of uncertainty. The quantification of this uncertainty can be useful in a variety of ways. Estimates of uncertainty might be used externally; for example, showing them to the user to increase user trust in the abilities of the system. They may also be used internally; for example, deciding the balance of ‘safe’ and less safe recommendations. In this work, we explore several methods for estimating uncertainty. The novelty comes from proposing methods that work in the implicit feedback setting. We use experiments on two datasets to compare a number of recommendation algorithms that are modified to perform uncertainty estimation. In our experiments, we show that some of these modified algorithms are less accurate than their unmodified counterparts, but others are actually more accurate. We also show which of these methods are best at enabling the recommender to be ‘aware’ of which of its recommendations are likely to be correct and which are likely to be wrong.'
+date: 2022
 venue: 'Irish Conference on Artificial Intelligence and Cognitive Science'
-slidesurl: 'http://academicpages.github.io/files/slides7.pdf'
-paperurl: 'http://academicpages.github.io/files/paper7.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-26438-2_22'
 citation: 'Coscrato, Victor, & Bridge, Derek. (2022). "Recommendation uncertainty in implicit feedback recommender systems." <i>Irish Conference on Artificial Intelligence and Cognitive Science</i>, 279-291.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A Recommender System’s recommendations will each carry a certain level of uncertainty. The quantification of this uncertainty can be useful in a variety of ways. Estimates of uncertainty might be used externally; for example, showing them to the user to increase user trust in the abilities of the system. They may also be used internally; for example, deciding the balance of ‘safe’ and less safe recommendations. In this work, we explore several methods for estimating uncertainty. The novelty comes from proposing methods that work in the implicit feedback setting. We use experiments on two datasets to compare a number of recommendation algorithms that are modified to perform uncertainty estimation. In our experiments, we show that some of these modified algorithms are less accurate than their unmodified counterparts, but others are actually more accurate. We also show which of these methods are best at enabling the recommender to be ‘aware’ of which of its recommendations are likely to be correct and which are likely to be wrong.

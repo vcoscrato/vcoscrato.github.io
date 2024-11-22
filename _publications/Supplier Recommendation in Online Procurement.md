@@ -1,14 +1,13 @@
 ---
 title: "Supplier Recommendation in Online Procurement"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-03-01-supplier-recommendation-in-online-procurement
-excerpt: 'This paper introduces a method for supplier recommendation in online procurement systems, aimed at improving decision-making in digital marketplaces.'
-date: 2024-03-01
+category: other
+permalink: /publication/keelvar
+excerpt: 'Supply chain optimization is key to a healthy and profitable business. Many companies use online procurement systems to agree contracts with suppliers. It is vital that the most competitive suppliers are invited to bid for such contracts. In this work, we propose a recommender system to assist with supplier discovery in road freight online procurement. Our system is able to provide personalized supplier recommendations, taking into account customer needs and preferences. This is a novel application of recommender systems, calling for design choices that fit the unique requirements of online procurement. Our preliminary results, using real-world data, are promising.'
+date: 2024
 venue: 'arXiv preprint arXiv:2403.01301'
-slidesurl: 'http://academicpages.github.io/files/slides9.pdf'
-paperurl: 'http://academicpages.github.io/files/paper9.pdf'
+paperurl: 'https://arxiv.org/abs/2403.01301'
 citation: 'Coscrato, Victor, & Bridge, Derek. (2024). "Supplier Recommendation in Online Procurement." <i>arXiv preprint arXiv:2403.01301</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Supply chain optimization is key to a healthy and profitable business. Many companies use online procurement systems to agree contracts with suppliers. It is vital that the most competitive suppliers are invited to bid for such contracts. In this work, we propose a recommender system to assist with supplier discovery in road freight online procurement. Our system is able to provide personalized supplier recommendations, taking into account customer needs and preferences. This is a novel application of recommender systems, calling for design choices that fit the unique requirements of online procurement. Our preliminary results, using real-world data, are promising.

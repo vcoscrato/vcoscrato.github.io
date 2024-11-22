@@ -1,14 +1,13 @@
 ---
 title: "The NN-Stacking: Feature weighted linear stacking through neural networks"
 collection: publications
-category: manuscripts
-permalink: /publication/2020-01-01-the-nn-stacking-feature-weighted-linear-stacking-through-neural-networks
-excerpt: 'The paper introduces NN-Stacking, a method using neural networks for feature-weighted linear stacking to enhance model performance in regression tasks.'
-date: 2020-01-01
+category: articles
+permalink: /publication/NNS
+excerpt: 'Stacking methods improve the prediction performance of regression models. A simple way to stack base regressions estimators is by combining them linearly, as done by Breiman [1]. Even though this approach is useful from an interpretative perspective, it often does not lead to high predictive power. We propose the NN-Stacking method (NNS), which generalizes Breiman’s method by allowing the linear parameters to vary with input features. This improvement enables NNS to take advantage of the fact that distinct base models often perform better at different regions of the feature space. Our method uses neural networks to estimate the stacking coefficients. We show that while our approach keeps the interpretative features of Breiman’s method at a local level, it leads to better predictive power, especially in datasets with large sample sizes.'
+date: 2020
 venue: 'Neurocomputing'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231220302630'
 citation: 'Coscrato, Victor, de Almeida Inacio, Marco Henrique, & Izbicki, Rafael. (2020). "The NN-Stacking: Feature weighted linear stacking through neural networks." <i>Neurocomputing</i>, 399, 141-152.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Stacking methods improve the prediction performance of regression models. A simple way to stack base regressions estimators is by combining them linearly, as done by Breiman [1]. Even though this approach is useful from an interpretative perspective, it often does not lead to high predictive power. We propose the NN-Stacking method (NNS), which generalizes Breiman’s method by allowing the linear parameters to vary with input features. This improvement enables NNS to take advantage of the fact that distinct base models often perform better at different regions of the feature space. Our method uses neural networks to estimate the stacking coefficients. We show that while our approach keeps the interpretative features of Breiman’s method at a local level, it leads to better predictive power, especially in datasets with large sample sizes.
