@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Victor Coscrato"
 title_separator          : "-"
 name                     : &name "Victor Coscrato"
 description              : &description "(PhD)"
 url                      : https://vcoscrato.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vcoscrato/vcoscrato.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   name             : "Victor Coscrato"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Artificial Intelligence"
-  location         : "Araraquara"
+  location         : "Brazil"
   employer         : "FI-Group"
   uri              : # URL
   email            : "vcoscrato@gmail.com" 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "victorcoscrato"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
