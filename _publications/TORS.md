@@ -4,7 +4,7 @@ collection: publications
 category: articles
 permalink: /publication/TORS
 excerpt: 'Uncertainty is a characteristic of every data-driven application, including recommender systems. The quantification of uncertainty can be key to increasing user trust in recommendations or choosing which recommendations should be accompanied by an explanation; uncertainty estimates can be used to accomplish recommender tasks such as active learning and co-training. Many uncertainty estimators are available, but to date, the literature has lacked a comprehensive survey and a detailed comparison. In this article, we fulfill these needs. We review the existing methods for uncertainty estimation and metrics for evaluating uncertainty estimates, while also proposing some estimation methods and evaluation metrics of our own. Using two datasets, we compare the methods using the evaluation metrics that we describe, and we discuss their strengths and potential issues. The goal of this work is to provide a foundation to the field of uncertainty estimation in recommender systems, on which further research can be built.'
-date: 2023
+year: 2023
 venue: 'ACM Transactions on Recommender Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3584021'
 citation: 'Coscrato, Victor, & Bridge, Derek. (2023). "Estimating and evaluating the uncertainty of rating predictions and top-n recommendations in recommender systems." <i>ACM Transactions on Recommender Systems</i>, 1(2), 1-34.'

@@ -4,7 +4,7 @@ collection: publications
 category: dissertations
 permalink: /publication/PHD
 excerpt: 'My Ph.D Thesis.'
-date: 2024
+year: 2024
 venue: 'University College Cork'
 paperurl: 'https://cora.ucc.ie/bitstreams/7a718b2e-45f6-4468-8a90-caee0911ada6/download'
 citation: 'Coscrato, Victor. (2024). "Uncertainty in Recommender Systems." <i>University College Cork</i>.'

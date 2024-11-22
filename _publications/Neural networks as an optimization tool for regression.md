@@ -4,7 +4,7 @@ collection: publications
 category: dissertations
 permalink: /publication/master
 excerpt: 'My master's dissertation.'
-date: 2019
+year: 2019
 venue: 'Universidade Federal de São Carlos'
 paperurl: 'https://repositorio.ufscar.br/handle/ufscar/11853'
 citation: 'Coscrato, Victor Azevedo. (2019). "Neural networks as an optimization tool for regression." <i>Universidade Federal de São Carlos</i>.'
