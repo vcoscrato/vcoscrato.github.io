@@ -3,7 +3,7 @@ title: "Neural networks as an optimization tool for regression"
 collection: publications
 category: dissertations
 permalink: /publication/master
-excerpt: 'My master's dissertation.'
+excerpt: "My master's dissertation."
 year: 2019
 venue: 'Universidade Federal de São Carlos'
 paperurl: 'https://repositorio.ufscar.br/handle/ufscar/11853'
