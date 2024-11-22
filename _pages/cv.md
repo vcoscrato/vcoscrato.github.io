@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
+======
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence (2019 – 2024) – University College Cork, Ireland.
+* Master in Statistics (2018 – 2019) – Universidade Federal de São Carlos / Universidade de São Paulo, Brazil.
+* Bachelor in Statistics (2014 – 2017) - Universidade Federal de São Carlos, Brazil.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* FI GROUP (09/2024 – Current): Data science Analyst
+  * Lead the end-to-end development and deployment of AI products to enhance consultancy operations, including solutions integrating Large Language Models (LLMs). Responsibilities encompassed full-stack development, designing intuitive frontends (UI/UX), building robust backends with seamless database and ML/AI model integration, and ensuring production-ready deployments.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* KEELVAR, CORK – IRELAND (04/2021 – 08/2021): AI/ML Analyst
+  * Design and implementation of an end-to-end supplier recommender system.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* STONE PAGAMENTOS SA, BRAZIL (06/2017 – 12/2017): People Analytics Analyst
+  * Responsible for automating the selection of candidates in selection processes.
+  * Creation of metrics and models for employee evaluation.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Extensive knowledge of various fields of artificial intelligence: Recommendation Systems, Computer Vision, Natural Language Processing (NLP), Deep Learning (DL), People Analytics.
+* Vast knowledge in statistical modeling: Linear/Logistic regression and classification, Neural networks, Random Forest, SVMs, Ensembles, etc.
+* Experience in developing innovative AI solutions utilizing large language models (LLMs).
+* AI/ML/Statistics Tools and Libraries: 
+  * Python and its AI/ML ecosystem: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, PySpark, XGBoost, OpenCV, etc.
+  * R and its analytics and statistical modeling tools: Tidyverve (dplyr, tidyr, tibble, purrr, tidymodels, etc.), Caret, mlr3.
+  * Data Visualization Tools in Python and R: Matplotlib, seaborn, ggplot2.
+* AI in Production – Tools and technologies for deployment and scaling:
+  * Docker, Kubernetes for containerization and orchestration.
+  * SQL, MongoDB for database integration in AI workflows.
+  * APIs (e.g. FastAPI) for serving AI models in production environments.
+  * Cloud platforms: Google Cloud, Amazon AWS, Microsoft Azure.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

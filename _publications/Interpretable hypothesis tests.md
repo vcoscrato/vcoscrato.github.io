@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Interpretable hypothesis tests"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/2019-04-01-interpretable-hypothesis-tests
+excerpt: 'This paper introduces a method for making hypothesis tests interpretable, helping to understand the implications of statistical conclusions.'
+date: 2019-04-01
+venue: 'arXiv preprint arXiv:1904.06605'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Coscrato, Victor, Esteves, Luís Gustavo, Izbicki, Rafael, & Stern, Rafael Bassi. (2019). "Interpretable hypothesis tests." <i>arXiv preprint arXiv:1904.06605</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
