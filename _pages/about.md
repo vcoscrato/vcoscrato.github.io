@@ -11,9 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-About me
-======
-Placeholder
+Victor Coscrato is an AI/ML and data science professional with several years of experience in artificial intelligence, machine learning, and statistical modeling. He holds a Ph.D. in Artificial Intelligence from University College Cork and a Master's in Statistics from PIPGEs (USP/UFSCar). His expertise spans recommendation systems, computer vision, natural language processing, and deep learning, with a strong focus on developing innovative AI solutions, including those powered by large language models (LLMs). Proficient in Python, R, and cloud platforms like AWS and Google Cloud, Victor has led end-to-end AI product development, integrating robust front-end and back-end systems. Fluent in Portuguese, English, and Spanish, he is passionate about technological innovation, open-source programming, and statistical modeling.
 
 Education
 ======
@@ -33,7 +31,6 @@ Work experience
   * Responsible for automating the selection of candidates in selection processes.
   * Creation of metrics and models for employee evaluation.
 
-  
 Skills
 ======
 * Extensive knowledge of various fields of artificial intelligence: Recommendation Systems, Computer Vision, Natural Language Processing (NLP), Deep Learning (DL), People Analytics.
